@@ -29,8 +29,6 @@ mvnw*
 bin/
 target/
 tmp/
-*.swp
-*~.nib
 local.properties
 .loadpath
 
